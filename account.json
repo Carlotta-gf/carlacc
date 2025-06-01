@@ -2,7 +2,9 @@
   {
     "username": "admin",
     "password": "123456",
-    "nomor": ["6281324217842"],
-    "status": "active"
+    "nomor": [
+      "6281324217842"
+    ],
+    "status": "banned"
   }
 ]
